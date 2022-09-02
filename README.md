@@ -1,7 +1,7 @@
 # Credit-Fraud-Detection
 Anonymized credit card transactions labeled as fraudulent or genuine
 
-Dataset: 
+Dataset: https://www.kaggle.com/mlg-ulb/creditcardfraud/download 
 - 284,807 Transactions made by credit cards in September 2013 by European cardholders.
 - As we might expect, we have a dramatically unbalanced dataset where only .172% of recorded transactions involve fraud.
 - Due to the sensitive nature of the original data features issues, PCA transformation was used to return only a numerical representation of each datapoint
